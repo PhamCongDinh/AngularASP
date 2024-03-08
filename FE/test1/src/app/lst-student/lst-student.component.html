@@ -1,0 +1,28 @@
+<a href="/addstudent">Thêm mới minh viên</a>
+<div>
+    <table id="customers">
+        <thead>
+            <th>Mã sinh viên</th>
+            <th>Họ tên</th>
+            <th>Ngày sinh</th>
+            <th>Quê quán</th>
+            <th>Lớp</th>
+            <th>khác</th>
+        </thead>
+        <tbody *ngFor="let item of datas">
+            <td>{{item.id}}</td>
+            <td>{{item.studentName}}</td>
+            <td>{{item.dateOfBirth | date:'dd/MM/yyyy'}}</td>
+            <td>{{item.town}}</td>
+            <td>{{item.nameclass}}</td>
+            <td>
+                <a style="color: blue;" [routerLink]="['/edit',item.id]">Sửa</a> |
+                <a style="color: green; " [routerLink]="['/detial',item.id]">Chi tiết</a> |
+
+                <a style="color: red;" (click)="deleteStudent(item.id)">Xóa</a>
+
+            </td>
+        </tbody>
+    </table>
+    <!-- <h4></h4><br> -->
+</div>

@@ -1,0 +1,26 @@
+<!-- edit-student.component.html -->
+<div>
+    <h2>Chỉnh sửa thông tin</h2>
+    <form *ngIf="studentdata">
+        <label for="id">Mã sinh viên</label>
+        <input type="text" id="id" name="id" [(ngModel)]="studentdata.id" required readonly>
+
+        <label for="name">Họ Tên</label>
+        <input type="text" id="name" name="name" [(ngModel)]="studentdata.studentName" required>
+
+        <label for="date-of-birth">Ngày sinh</label>
+        <input type="date" id="date-of-birth" name="dateOfBirth" [(ngModel)]="studentdata.dateOfBirth" required>
+
+        <label for="town">Quê quán</label>
+        <input type="text" id="town" name="town" [(ngModel)]="studentdata.town" required>
+
+        <label for="lop">Lớp</label>
+        <!-- <input type="text" id="lop" name="nameClass" [(ngModel)]="studentdata.nameclass" required> -->
+        <select id="nameClass" name="nameClass" [(ngModel)]="studentdata.nameclass" required>
+            <option *ngFor="let item of datas" [value]="item.nameClass">{{item.nameClass}}</option>
+        </select>
+
+        <hr>
+        <button type="button" (click)="updateStudent()">Edit</button>
+    </form>
+</div>

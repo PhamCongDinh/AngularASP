@@ -1,0 +1,21 @@
+<p>Thêm Mới</p>
+<form #studentForm="ngForm" (ngSubmit)="addStudent(studentForm)">
+    <label for="id">Mã sinh viên</label>
+    <input type="text" id="id" name="id" ngModel required>
+
+    <label for="name">Họ Tên</label>
+    <input type="text" id="name" name="name" ngModel required>
+
+    <label for="date-of-birth">Ngày sinh</label>
+    <input type="date" id="date-of-birth" name="dateOfBirth" ngModel required>
+
+    <label for="town">Quê quán</label>
+    <input type="text" id="town" name="town" ngModel required>
+
+    <label for="lop">Lớp</label>
+    <!-- <input type="text" id="lop" name="nameClass" ngModel required> -->
+    <select id="nameClass" name="nameClass" ngModel required>
+        <option *ngFor="let item of datas" [value]="item.nameClass">{{item.nameClass}}</option>
+    </select>
+    <button type="submit">Thêm</button>
+</form>

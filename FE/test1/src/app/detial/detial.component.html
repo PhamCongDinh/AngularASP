@@ -1,0 +1,22 @@
+<p>Chi tiết sinh viên</p>
+<div>
+    <table id="customers">
+        <thead>
+            <th>Mã sinh viên</th>
+            <th>Môn học</th>
+            <th>Lần học</th>
+            <th>Điểm quá trình</th>
+            <th>Điểm thi</th>
+            <th>Tổng kết học phần</th>
+        </thead>
+        <tbody *ngFor="let item of data">
+            <td>{{item.studentID}}</td>
+            <td>{{item.courseName}}</td>
+            <td>{{item.number}}</td>
+            <td>{{item.pointProcess}}</td>
+            <td>{{item.pointTest}}</td>
+            <td>{{item.diemKT}}</td>
+
+        </tbody>
+    </table>
+</div>

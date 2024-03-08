@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\fpt\\APIQLSV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78193823-697C-4DE4-A382-4ABB6A030A98}|APIQLSV\\APIQLSV.csproj|c:\\fpt\\apiqlsv\\apiqlsv\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78193823-697C-4DE4-A382-4ABB6A030A98}|APIQLSV\\APIQLSV.csproj|solutionrelative:apiqlsv\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78193823-697C-4DE4-A382-4ABB6A030A98}|APIQLSV\\APIQLSV.csproj|c:\\fpt\\apiqlsv\\apiqlsv\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78193823-697C-4DE4-A382-4ABB6A030A98}|APIQLSV\\APIQLSV.csproj|solutionrelative:apiqlsv\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78193823-697C-4DE4-A382-4ABB6A030A98}|APIQLSV\\APIQLSV.csproj|c:\\fpt\\apiqlsv\\apiqlsv\\models\\studentmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78193823-697C-4DE4-A382-4ABB6A030A98}|APIQLSV\\APIQLSV.csproj|solutionrelative:apiqlsv\\models\\studentmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78193823-697C-4DE4-A382-4ABB6A030A98}|APIQLSV\\APIQLSV.csproj|c:\\fpt\\apiqlsv\\apiqlsv\\models\\stucour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78193823-697C-4DE4-A382-4ABB6A030A98}|APIQLSV\\APIQLSV.csproj|solutionrelative:apiqlsv\\models\\stucour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78193823-697C-4DE4-A382-4ABB6A030A98}|APIQLSV\\APIQLSV.csproj|c:\\fpt\\apiqlsv\\apiqlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78193823-697C-4DE4-A382-4ABB6A030A98}|APIQLSV\\APIQLSV.csproj|solutionrelative:apiqlsv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78193823-697C-4DE4-A382-4ABB6A030A98}|APIQLSV\\APIQLSV.csproj|c:\\fpt\\apiqlsv\\apiqlsv\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78193823-697C-4DE4-A382-4ABB6A030A98}|APIQLSV\\APIQLSV.csproj|solutionrelative:apiqlsv\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78193823-697C-4DE4-A382-4ABB6A030A98}|APIQLSV\\APIQLSV.csproj|c:\\fpt\\apiqlsv\\apiqlsv\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78193823-697C-4DE4-A382-4ABB6A030A98}|APIQLSV\\APIQLSV.csproj|solutionrelative:apiqlsv\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\fpt\\APIQLSV\\APIQLSV\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "APIQLSV\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\fpt\\APIQLSV\\APIQLSV\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "APIQLSV\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAkwFUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:10:09.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\fpt\\APIQLSV\\APIQLSV\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "APIQLSV\\Models\\Student.cs",
+              "ToolTip": "C:\\fpt\\APIQLSV\\APIQLSV\\Models\\Student.cs",
+              "RelativeToolTip": "APIQLSV\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T07:12:27.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StuCour.cs",
+              "DocumentMoniker": "C:\\fpt\\APIQLSV\\APIQLSV\\Models\\StuCour.cs",
+              "RelativeDocumentMoniker": "APIQLSV\\Models\\StuCour.cs",
+              "ToolTip": "C:\\fpt\\APIQLSV\\APIQLSV\\Models\\StuCour.cs",
+              "RelativeToolTip": "APIQLSV\\Models\\StuCour.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T07:15:13.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\fpt\\APIQLSV\\APIQLSV\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "APIQLSV\\Models\\Class.cs",
+              "ToolTip": "C:\\fpt\\APIQLSV\\APIQLSV\\Models\\Class.cs",
+              "RelativeToolTip": "APIQLSV\\Models\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T04:38:48.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\fpt\\APIQLSV\\APIQLSV\\Program.cs",
+              "RelativeDocumentMoniker": "APIQLSV\\Program.cs",
+              "ToolTip": "C:\\fpt\\APIQLSV\\APIQLSV\\Program.cs",
+              "RelativeToolTip": "APIQLSV\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T01:14:40.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\fpt\\APIQLSV\\APIQLSV\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "APIQLSV\\Models\\Department.cs",
+              "ToolTip": "C:\\fpt\\APIQLSV\\APIQLSV\\Models\\Department.cs",
+              "RelativeToolTip": "APIQLSV\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T04:38:21.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentManagementContext.cs",
+              "DocumentMoniker": "C:\\fpt\\APIQLSV\\APIQLSV\\Models\\StudentManagementContext.cs",
+              "RelativeDocumentMoniker": "APIQLSV\\Models\\StudentManagementContext.cs",
+              "ToolTip": "C:\\fpt\\APIQLSV\\APIQLSV\\Models\\StudentManagementContext.cs",
+              "RelativeToolTip": "APIQLSV\\Models\\StudentManagementContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAjwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:09:06.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
